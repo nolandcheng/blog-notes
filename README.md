@@ -5,4 +5,4 @@
 
 
 ## 笔记目录
-### [《TypeScript入门教程》](TypeScript/README.md)
+- ### [《TypeScript入门教程》](《TypeScript入门教程》/README.md)
