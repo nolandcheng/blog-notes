@@ -1,13 +1,15 @@
-# 我的笔记
+# 我的产出-笔记和博客
+
 ## 社区
+
+博客：https://cqdcyonghao.github.io/blogs
+
 语雀：https://www.yuque.com/cqdcyonghao
 
+## 其他·邯郸学步
 
-## 学习笔记
-### [《TypeScript入门教程》](《TypeScript入门教程》/README.md)
+### [《TypeScript 入门教程》](other/《TypeScript入门教程》/README.md)
 
-## LeetCode刷题记录
+### [二分查找](other/二分查找.md)
 
-### [📒 二分查找](📒%20二分查找.md)
-
-### ~~[算法入门](算法入门/README.md)~~
+### [算法入门](other/算法入门/README.md)
